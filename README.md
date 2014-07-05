@@ -14,6 +14,7 @@
 |https://godjango.com/| Django (Python)|
 |http://code.tutsplus.com/series/| HTML, CSS, Javascript, iOS, Android etc.|
 |http://elixirsips.com/| Pure Elixir|
+|https://skipcasts.com/| Swift (iOS)|
 
 
 ### Contribution
