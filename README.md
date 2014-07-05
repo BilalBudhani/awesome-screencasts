@@ -1,7 +1,6 @@
-Programming video tutorials list
-====================
+# Programming video tutorials resource list
 
-I'm trying to compile a list of sites which provides programming video related content Free / Paid.
+> I'm trying to compile a list of sites which provides programming video related content Free / Paid.
 
 ### List
 |Site links | Description|
@@ -15,3 +14,7 @@ I'm trying to compile a list of sites which provides programming video related c
 |https://godjango.com/| Django (Python)|
 |http://code.tutsplus.com/series/| HTML, CSS, Javascript, iOS, Android etc.|
 |http://elixirsips.com/| Pure Elixir|
+
+
+### Contribution
+Please feel free to fork this and send a pull request if you find site missing.
