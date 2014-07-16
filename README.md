@@ -16,7 +16,9 @@
 |http://elixirsips.com/| Pure Elixir|
 |https://skipcasts.com/| Swift (iOS)|
 |https://buckysroom.org/videos.php| All in one website. (Java, PHP, SQL, etc.)|
-|http://sysadmincasts.com/| DevOps, System admin, linux.
+|http://sysadmincasts.com/| DevOps, System admin, linux.|
+|https://laracasts.com/| PHP Lavarel cast|
+|https://gorails.com | Focused on Ruby on Rails|
 
 ### Contribution
 Please feel free to fork this and send a pull request if you find site missing.
