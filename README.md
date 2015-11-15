@@ -3,32 +3,31 @@
 A curated list of awesome screencasts available around the web.
 
 
-### Ruby
+## Ruby
  * [RailsCasts](http://railscasts.com) - Ruby on Rails Screencasts 
  * [RubyTapas](http://www.rubytapas.com) - Short Screencasts of gourmet ruby
  * [UpCase](https://upcase.com) - Screencasts on Ruby by Thoughtbot
  * [GoRails](https://gorails.com) - Screencasts for intermediate Ruby on Rails developers
 
-### JavaScript
+## JavaScript
   * [EggHead](https://egghead.io) - Screencasts on major famous javascript frameworks and concepts. 
-  * 
   
-### iOS 
+## iOS 
   * [BitFountain](https://www.bitfountain.io/) - Full course on iOS developement including Swift and Sketch. 
   
-### PHP
+## PHP
   * [LaraCasts](https://laracasts.com/) - Screencasts on PHP Lavarel framework.
 
-### Elixir 
+## Elixir 
   * [ElixirSips](http://elixirsips.com) - Learn elixir with a pro
 
-### Python
+## Python
   * [GoDjango](https://godjango.com/) - Learn Django, Python and more. 
 
-### DevOps
+## DevOps
   * [SysAdminCasts](https://sysadmincasts.com/) - Sysadmin Casts - bite-sized sysadmin screencasts (released weekly)
 
-### Misc
+## Misc
 _Sites which offers screencasts for everything_
   * [DevCasts](https://www.devcasts.io/) - Hand picked video tutorials for developers
   
