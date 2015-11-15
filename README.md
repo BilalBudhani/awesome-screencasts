@@ -24,6 +24,9 @@ A curated list of awesome screencasts available around the web.
 ## Python
   * [GoDjango](https://godjango.com/) - Learn Django, Python and more. 
 
+## Tools
+  * [Build-Podcast] (http://build-podcast.com/) - Screencasts on Tech Tools. Learn about Gulp, Git Flow, Docker, Tmux etc.
+
 ## DevOps
   * [SysAdminCasts](https://sysadmincasts.com/) - Sysadmin Casts - bite-sized sysadmin screencasts (released weekly)
 
@@ -32,4 +35,4 @@ _Sites which offers screencasts for everything_
   * [DevCasts](https://www.devcasts.io/) - Hand picked video tutorials for developers
   
 ### Contribution
-Help me compile list of awesome screencasts. Send a Pull Request by adding the screencasts in appropriate category.
+Help me compile a list of awesome screencasts. Send a Pull Request by adding the screencasts in their appropriate category.
