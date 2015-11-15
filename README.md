@@ -1,24 +1,36 @@
-# Programming video tutorials resource list
+# Awesome Screencasts
 
-> I'm trying to compile a list of sites which provides programming video related content Free / Paid.
+A curated list of awesome screencasts available around the web.
 
-### List
-|Site links | Description|
------------------------|-----------------------------------------
-|http://railscast.com| Ruby on Rails and various other gems.|
-|http://www.rubytapas.com| Ruby and its core concepts.|
-|http://www.metacasts.tv| Covers variety of languages and framework like Ruby, Rails, Swift, Javascript, Golang.|
-|https://gocasts.io| Golang.|
-|https://egghead.io| AngularJS + Javascript|
-|https://learn.thoughtbot.com| Ruby, Rails, iOS|
-|https://godjango.com/| Django (Python)|
-|http://code.tutsplus.com/series/| HTML, CSS, Javascript, iOS, Android etc.|
-|http://elixirsips.com/| Pure Elixir|
-|https://skipcasts.com/| Swift (iOS)|
-|https://buckysroom.org/videos.php| All in one website. (Java, PHP, SQL, etc.)|
-|http://sysadmincasts.com/| DevOps, System admin, linux.|
-|https://laracasts.com/| PHP Lavarel cast|
-|https://gorails.com | Focused on Ruby on Rails|
 
+### Ruby
+ * [RailsCasts](http://railscasts.com) - Ruby on Rails Screencasts 
+ * [RubyTapas](http://www.rubytapas.com) - Short Screencasts of gourmet ruby
+ * [UpCase](https://upcase.com) - Screencasts on Ruby by Thoughtbot
+ * [GoRails](https://gorails.com) - Screencasts for intermediate Ruby on Rails developers
+
+### JavaScript
+  * [EggHead](https://egghead.io) - Screencasts on major famous javascript frameworks and concepts. 
+  * 
+  
+### iOS 
+  * [BitFountain](https://www.bitfountain.io/) - Full course on iOS developement including Swift and Sketch. 
+  
+### PHP
+  * [LaraCasts](https://laracasts.com/) - Screencasts on PHP Lavarel framework.
+
+### Elixir 
+  * [ElixirSips](http://elixirsips.com) - Learn elixir with a pro
+
+### Python
+  * [GoDjango](https://godjango.com/) - Learn Django, Python and more. 
+
+### DevOps
+  * [SysAdminCasts](https://sysadmincasts.com/) - Sysadmin Casts - bite-sized sysadmin screencasts (released weekly)
+
+### Misc
+_Sites which offers screencasts for everything_
+  * [DevCasts](https://www.devcasts.io/) - Hand picked video tutorials for developers
+  
 ### Contribution
-Please feel free to fork this and send a pull request if you find site missing.
+Help me compile list of awesome screencasts. Send a Pull Request by adding the screencasts in appropriate category.
