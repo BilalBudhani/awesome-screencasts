@@ -33,6 +33,7 @@ A curated list of awesome screencasts available around the web.
 ## Misc
 _Sites which offers screencasts for everything_
   * [DevCasts](https://www.devcasts.io/) - Hand picked video tutorials for developers
+  * [Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog) - Miscellenous screencasts for serious developers.
   
 ### Contribution
 Help me compile a list of awesome screencasts. Send a Pull Request by adding the screencasts in their appropriate category.
