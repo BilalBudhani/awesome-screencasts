@@ -35,4 +35,4 @@ _Sites which offers screencasts for everything_
   * [DevCasts](https://www.devcasts.io/) - Hand picked video tutorials for developers
   
 ### Contribution
-Help me compile list of awesome screencasts. Send a Pull Request by adding the screencasts in appropriate category.
+Help me compile a list of awesome screencasts. Send a Pull Request by adding the screencasts in their appropriate category.
