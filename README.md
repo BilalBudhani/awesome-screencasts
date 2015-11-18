@@ -14,6 +14,7 @@ A curated list of awesome screencasts available around the web.
   
 ## iOS 
   * [BitFountain](https://www.bitfountain.io/) - Full course on iOS developement including Swift and Sketch. 
+  * [VeaSoftware](https://www.veasoftware.com/) - Tutorials, Podcasts and resources for iOS developers.
   
 ## PHP
   * [LaraCasts](https://laracasts.com/) - Screencasts on PHP Lavarel framework.
